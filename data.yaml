@@ -1,0 +1,9 @@
+names:
+- helmet
+- bike
+- no helmet
+nc: 3
+
+test: /content/lung-cancer-2/test/images
+train: /content/lung-cancer-2/train/images
+val: /content/lung-cancer-2/valid/images
